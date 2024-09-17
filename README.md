@@ -1,5 +1,5 @@
 # Project1
-## Number row characters
+### Number row characters
 * /! (Exlamation point)
 * /@ (commercial)
 * /# ( hash)
@@ -14,7 +14,7 @@
 * [Youtube](https://www.youtube.com/?hl=tr&gl=TR)
 * [Gmail](https://mail.google.com)
 * [Atklass](https://app.atklass.com/)
-* #### Experiments
+* ### Experiments
 * :kissing_heart:
 * :satisfied:
 * :neckbeard:
